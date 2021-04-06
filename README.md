@@ -13,4 +13,4 @@
         b. Using ansible handlers write a program to check the status of each service and if some service is found stopped, restart only the required services in a proper order.
   
   
-3. Write a playbook to archive/zip all files inside a given directory (and its sub-directories) created by a "test" user, which are older than a month.
+3. Write a playbook to archive/zip all files inside a given directory (and its sub-directories) created by a "test" user, which are older than a month.  
